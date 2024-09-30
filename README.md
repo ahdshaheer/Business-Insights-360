@@ -68,6 +68,4 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 Explore the interactive dashboard live here -_[Business 360](https://app.powerbi.com/view?r=eyJrIjoiYTNlOGZjNzMtN2Y1YS00MDY1LWE4NDUtN2JmOWRmMmI2NDAyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
 ## Insights
--  Conducted in-depth market and competitor analysis, identifying the key drivers behind a 20% decline in revenue and market share. 
-- Enhanced online presence and booking channels, resulting in a 30% increase in online bookings and a 20% reduction in booking abandonment rates. 
-- Implemented promotional strategies that led to a 10% revenue recovery within 6 months.
+Built a Power BI dashboard integrating sales data from Excel/CSV and SQL sources, optimized with DAX Studio, achieved a 5% performance improvement and a 20% reduction in data-related expenses.
